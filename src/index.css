@@ -14,3 +14,6 @@ input{
 input:focus{
   outline: none;
 }
+input:disabled{
+  background: none;
+}
